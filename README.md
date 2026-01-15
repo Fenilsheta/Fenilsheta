@@ -33,16 +33,20 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenilsheta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 💰 You can help me by Your Support 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fenilasheta) <p><a href="https://www.buymeacoffee.com/fenilsheta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fenilsheta" /></a></p><br><br>
-
-## 💰 You can help me by Your Support  
+## 💰 You can help me by Your Support
 
 <a href="https://paypal.me/fenilasheta">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <img
+    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"
+    height="42"
+    style="vertical-align: middle;"
+  />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/fenilsheta">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    height="42"
+    style="vertical-align: middle;"
+  />
 </a>
-
-  
