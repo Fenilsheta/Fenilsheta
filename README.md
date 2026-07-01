@@ -22,6 +22,18 @@
 
 ---
 
+<!--
+## 🛡️ Security Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ReconStrike](#) | Automated recon tool chaining Nmap, WhatWeb & Gobuster — auto-generates Google Dorks and a consolidated Markdown report | Python |
+| Vulnerable App + Full VAPT Report | Self-built vulnerable web app, pentested end-to-end (SQLi, XSS, IDOR, broken auth) with a professional pentest report | React/Node, Burp Suite |
+| CTF Writeups | Writeups from TryHackMe / HackTheBox rooms with methodology, screenshots, and lessons learned | — |
+
+---
+-->
+
 ## 🧰 Security Skills
 
 **Tools:** Burp Suite · Nmap · Metasploit / Metasploitable · Gobuster · Kali Linux
@@ -35,9 +47,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [PropCRM](#) | *(add one-liner + repo link)* | React, Node.js |
-| [Stayzaa](#) | *(add one-liner + repo link)* | React, Node.js |
-| [Klothem](#) | *(add one-liner + repo link)* | React, Node.js |
+| [PropCRM](https://propcrm.vercel.app/) | Role-based real estate CRM for managing property leads, agent workflows, and client interactions with Supabase Realtime updates | React.js · Supabase · Tailwind · shadcn/ui · Vite |
+| [Stayzaa](https://stayzaa.vercel.app) | Full-stack property management platform for Admin/Host roles — listings, booking workflows, and dashboard management | React.js · Supabase · Tailwind · shadcn/ui · Framer Motion |
+| [Klothem](https://klothem.vercel.app) | Fashion e-commerce app with secure auth, product management, and live order tracking via Supabase | React.js · Supabase · Tailwind · TypeScript |
 
 **Stack:** React.js · Next.js · Node.js · REST APIs · PostgreSQL · MongoDB · Supabase
 
