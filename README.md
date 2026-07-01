@@ -52,10 +52,3 @@
 | [Klothem](https://klothem.vercel.app) | Fashion e-commerce app with secure auth, product management, and live order tracking via Supabase | React.js · Supabase · Tailwind · TypeScript |
 
 **Stack:** React.js · Next.js · Node.js · REST APIs · PostgreSQL · MongoDB · Supabase
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fenilsheta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fenilsheta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenilsheta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
